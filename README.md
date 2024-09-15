@@ -59,4 +59,7 @@ We're available at techhiring@superjoin.ai for all queries.
 All the best ✨.
 
 ## Developer's Section
-*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+I made a fixed scheme in MySQL and connected it with the spreadsheet using API endpoints. That updates the table every time there is change in the spreadsheet and from the table to spreadshit every 5 minutes.
+
+https://github.com/user-attachments/assets/b5e22fc0-4523-4a2d-89fc-29b808b93c0e
+
