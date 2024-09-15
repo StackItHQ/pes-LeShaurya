@@ -60,6 +60,5 @@ All the best ✨.
 
 ## Developer's Section
 I made a fixed scheme in MySQL and connected it with the spreadsheet using API endpoints. That updates the table every time there is change in the spreadsheet and from the table to spreadshit every 5 minutes.
-
-https://github.com/user-attachments/assets/b5e22fc0-4523-4a2d-89fc-29b808b93c0e
+https://github.com/user-attachments/assets/b0be1a26-d2ff-45e0-89b5-bba8bd8f5e55
 
