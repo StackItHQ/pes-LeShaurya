@@ -1,0 +1,12 @@
+CREATE DATABASE Sheets;
+USE Sheets;
+CREATE TABLE sheet_data (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  column1 VARCHAR(255),
+  column2 VARCHAR(255),
+  -- Add more columns as needed
+  last_updated TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+select * from sheet_data;
+DROP TABLE sheet_data;
